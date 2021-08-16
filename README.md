@@ -1,4 +1,4 @@
-# HST YAML backup script by Rafa
+# HST YAML backup script by Rafal Klimczak
 Backup sollution for all YAML files in OpenShift projects managed by HST
 
 ## How to:
